@@ -6,6 +6,11 @@ Instead of reading tutorials, you write real Python in the browser to defeat "sy
 Every solved quest gives XP and gold, unlocks ranks and items, and moves you up the leaderboard.
 When you get stuck, an LLM-powered mentor gives a hint instead of the answer.
 
+**▶ Live demo: [python-mastery-rpg.streamlit.app](https://python-mastery-rpg.streamlit.app)**
+<sub>The free hosting sleeps when idle — the first load can take up to a minute. Accounts and progress reset when the app restarts.</sub>
+
+<img src="docs/login.png" alt="Login screen with the guild portal and theme picker">
+
 ## Features
 
 - **Code Arena** — an in-browser editor (Ace) where each quest is checked by running your code against a test.
