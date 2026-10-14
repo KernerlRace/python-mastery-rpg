@@ -45,7 +45,7 @@ def init_db():
     conn.close()
 
 # --- 1. SETTINGS & THEME ENGINE ---
-st.set_page_config(page_title="Hilda's Epic IT-RPG", page_icon="⚔️", layout="wide")
+st.set_page_config(page_title="Python Mastery RPG", page_icon="⚔️", layout="wide")
 
 # VS Code Theme Palettes
 # VS Code Theme Palettes
